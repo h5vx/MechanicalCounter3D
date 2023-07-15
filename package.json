@@ -1,0 +1,21 @@
+{
+  "name": "mechanical-counter-3d",
+  "version": "1.0.0",
+  "description": "3D visualisation of mechanical counter that can be used as an example of how positional numeral systems works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "h5vx",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.154.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h5vx/MechanicalCounter3D.git"
+  }
+}
