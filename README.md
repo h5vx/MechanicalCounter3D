@@ -1,7 +1,7 @@
 # 3D Mechanical Counter
 
 <p align="center">
-    <img src="https://github.com/h5vx/MechanicalCounter3D/blob/master/doc/preview.png" />
+    <img src="https://github.com/h5vx/MechanicalCounter3D/blob/master/doc/preview.png" max-width="40%" />
 </p>
 
 ## Features
